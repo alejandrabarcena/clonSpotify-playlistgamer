@@ -9,19 +9,6 @@ Ideal para practicar:
 - Cambios dinámicos en el DOM
 - Lógica de reproducción de audio en React
 
-## 📘 ¿Por qué aparece TypeScript si el código está en JavaScript?
-
-Aunque la lógica del proyecto fue desarrollada en **JavaScript puro**, el entorno fue creado con **Vite + React**, que incluye por defecto archivos `.ts`, como:
-
-- `vite.config.ts`
-- `tsconfig.json`
-- `tsconfig.node.json`
-GitHub detecta estos archivos como TypeScript, por lo que muestra un alto porcentaje de uso. Sin embargo:
-
-> ✅ *No se usaron archivos `.tsx` ni tipado estático, pero la estructura queda lista para migrar a TypeScript si se desea en el futuro.*
-
----
-
 ## 🌐 Demo en vivo
 
 🔗 https://clon-spotify-sigma.vercel.app/
